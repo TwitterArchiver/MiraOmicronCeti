@@ -1,0 +1,282 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Fri Jan 24 11:49:01 +0000 2020",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 1034245225840107520,
+        "id_str": "1034245225840107520",
+        "indices": [
+          3,
+          13
+        ],
+        "name": "hypmic_en",
+        "screen_name": "hypmic_en"
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1220674865625096192,
+  "id_str": "1220674865625096192",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Fri Jan 24 10:29:32 +0000 2020",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "entities": {
+      "hashtags": [],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1220654860456144897",
+          "indices": [
+            117,
+            140
+          ],
+          "url": "https://t.co/w7UfGafOGN"
+        }
+      ],
+      "user_mentions": []
+    },
+    "extended_tweet": {
+      "display_text_range": [
+        0,
+        262
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              215,
+              226
+            ],
+            "text": "hypspoiler"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Z5zhXcDDl8",
+            "expanded_url": "https://twitter.com/hypmic_en/status/1220654860456144897/photo/1",
+            "id": 1220654855309680640,
+            "id_str": "1220654855309680640",
+            "indices": [
+              263,
+              286
+            ],
+            "media_url": "http://pbs.twimg.com/media/EPCjH6QW4AAifFk.png",
+            "media_url_https": "https://pbs.twimg.com/media/EPCjH6QW4AAifFk.png",
+            "sizes": {
+              "large": {
+                "h": 815,
+                "resize": "fit",
+                "w": 463
+              },
+              "medium": {
+                "h": 815,
+                "resize": "fit",
+                "w": 463
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 386
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Z5zhXcDDl8"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "youtube.com/watch?v=FHAdjk…",
+            "expanded_url": "https://www.youtube.com/watch?v=FHAdjkRFudY",
+            "indices": [
+              160,
+              183
+            ],
+            "url": "https://t.co/xo2KVqyGEj"
+          }
+        ],
+        "user_mentions": []
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/Z5zhXcDDl8",
+            "expanded_url": "https://twitter.com/hypmic_en/status/1220654860456144897/photo/1",
+            "id": 1220654855309680640,
+            "id_str": "1220654855309680640",
+            "indices": [
+              263,
+              286
+            ],
+            "media_url": "http://pbs.twimg.com/media/EPCjH6QW4AAifFk.png",
+            "media_url_https": "https://pbs.twimg.com/media/EPCjH6QW4AAifFk.png",
+            "sizes": {
+              "large": {
+                "h": 815,
+                "resize": "fit",
+                "w": 463
+              },
+              "medium": {
+                "h": 815,
+                "resize": "fit",
+                "w": 463
+              },
+              "small": {
+                "h": 680,
+                "resize": "fit",
+                "w": 386
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/Z5zhXcDDl8"
+          }
+        ]
+      },
+      "full_text": "A preview of the drama track on the upcoming MAD TRIGGER CREW - Before the 2nd D.R.B. titled \"All in the same boat\" has been released early via the newsletter: https://t.co/xo2KVqyGEj\nSummary to follow. Please mute #hypspoiler if you're concerned about spoilers! https://t.co/Z5zhXcDDl8"
+    },
+    "favorite_count": 170,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1220654860456144897,
+    "id_str": "1220654860456144897",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 10,
+    "reply_count": 3,
+    "retweet_count": 115,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "A preview of the drama track on the upcoming MAD TRIGGER CREW - Before the 2nd D.R.B. titled \"All in the same boat\"… https://t.co/w7UfGafOGN",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Aug 28 01:04:11 +0000 2018",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "An unofficial English resource for Hypnosis Microphone - we'll be offering translations of updates and other news. ※公式、その他関係者とは無関係の非公式ファンアカウントです。",
+      "favourites_count": 335,
+      "follow_request_sent": null,
+      "followers_count": 14850,
+      "following": null,
+      "friends_count": 5,
+      "geo_enabled": false,
+      "id": 1034245225840107520,
+      "id_str": "1034245225840107520",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 74,
+      "location": "Central Ward",
+      "name": "hypmic_en",
+      "notifications": null,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1034245225840107520/1573417512",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1059625506017042438/vL7cuhi7_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1059625506017042438/vL7cuhi7_normal.jpg",
+      "profile_link_color": "1DA1F2",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "hypmic_en",
+      "statuses_count": 5296,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "https://hypmicen.wordpress.com/",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @hypmic_en: A preview of the drama track on the upcoming MAD TRIGGER CREW - Before the 2nd D.R.B. titled \"All in the same boat\" has been…",
+  "timestamp_ms": "1579866541664",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Fri Dec 09 11:34:10 +0000 2011",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "退廃的だった。 MTC+DH+TCW+AKYR 💙🧡\nOnline soundboard for anime-related stuff. ➡️https://open.spotify.com/playlist/7DtrtW7fSJ6f9s9IznhG9K",
+    "favourites_count": 5010,
+    "follow_request_sent": null,
+    "followers_count": 92,
+    "following": null,
+    "friends_count": 95,
+    "geo_enabled": false,
+    "id": 432429111,
+    "id_str": "432429111",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 4,
+    "location": null,
+    "name": "Mira L.🔽MTC JANUARY",
+    "notifications": null,
+    "profile_background_color": "1A698A",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/432429111/1579104837",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1208676640206680064/ggyw8gZ4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1208676640206680064/ggyw8gZ4_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "CAE2A6",
+    "profile_text_color": "05D4CC",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "miraOmicronCeti",
+    "statuses_count": 2199,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false
+  }
+}

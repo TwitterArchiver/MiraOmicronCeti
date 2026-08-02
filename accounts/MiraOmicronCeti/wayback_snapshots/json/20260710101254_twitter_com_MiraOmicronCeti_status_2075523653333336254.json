@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000386018953101312",
+    "conversation_id": "2075517961587323203",
+    "created_at": "2026-07-10T10:12:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-10T11:12:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075523653333336254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1217855766167556096",
+          "start": 0,
+          "username": "SummerTwT9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075523653333336254",
+    "in_reply_to_user_id": "1217855766167556096",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2075517961587323203",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SummerTwT9 这人又在研究理财产品"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000386018953101312",
+        "conversation_id": "2075517961587323203",
+        "created_at": "2026-07-10T10:12:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T11:12:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075523653333336254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1217855766167556096",
+              "start": 0,
+              "username": "SummerTwT9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075523653333336254",
+        "in_reply_to_user_id": "1217855766167556096",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075517961587323203",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SummerTwT9 这人又在研究理财产品"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1217855766167556096",
+        "conversation_id": "2075517961587323203",
+        "created_at": "2026-07-10T09:50:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-10T10:50:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2075517961587323203"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2075517961587323203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 14,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "gsc夏娜去年看的时候2k多嫌贵没买，今年一看炒到3k6了，救命啊，啥时候把价格打下来"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T02:03:07.000Z",
+        "description": "🟨⬜️🟪⬛️",
+        "id": "2000386018953101312",
+        "name": "ᎷӀᎡᎪ #蒭藁增二",
+        "pinned_tweet_id": "2069076461810794794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052875697958559744/YFtatxSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 243,
+          "like_count": 6343,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 646
+        },
+        "url": "",
+        "username": "MiraOmicronCeti",
+        "verified": false
+      },
+      {
+        "created_at": "2020-01-16T17:07:03.000Z",
+        "description": "于风雨之中绽放的蓝蔷薇\n無休止直至死去\n因为你太柔软@Akinoyo_desu\n路的尽头是海的入口@noth1nghere14\n丢失了地图的少年旅行家@q72248442",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Akinoyo_desu"
+              },
+              {
+                "end": 63,
+                "start": 49,
+                "username": "noth1nghere14"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "q72248442"
+              }
+            ]
+          }
+        },
+        "id": "1217855766167556096",
+        "location": "地靈殿",
+        "name": "村雨",
+        "pinned_tweet_id": "2043958461323698567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043636900381237248/_ViH72iv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 131,
+          "like_count": 239,
+          "listed_count": 1,
+          "media_count": 104,
+          "tweet_count": 627
+        },
+        "url": "",
+        "username": "SummerTwT9",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Wed Jan 29 05:36:30 +0000 2020",
+  "entities": {
+    "hashtags": [],
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/rmMkzTYvjk",
+        "expanded_url": "https://twitter.com/TashaaChan/status/1221926864966410240/video/1",
+        "id": 1221926822805307392,
+        "id_str": "1221926822805307392",
+        "indices": [
+          89,
+          112
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1221926822805307392/pu/img/dz0gDJUJLGu-L_A1.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1221926822805307392/pu/img/dz0gDJUJLGu-L_A1.jpg",
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 576
+          },
+          "medium": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 576
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 383
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1221926864966410240,
+        "source_status_id_str": "1221926864966410240",
+        "source_user_id": 768505759,
+        "source_user_id_str": "768505759",
+        "type": "photo",
+        "url": "https://t.co/rmMkzTYvjk"
+      }
+    ],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": [
+      {
+        "id": 768505759,
+        "id_str": "768505759",
+        "indices": [
+          3,
+          14
+        ],
+        "name": "ナターシャ",
+        "screen_name": "TashaaChan"
+      }
+    ]
+  },
+  "extended_entities": {
+    "media": [
+      {
+        "additional_media_info": {
+          "monetizable": false
+        },
+        "display_url": "pic.twitter.com/rmMkzTYvjk",
+        "expanded_url": "https://twitter.com/TashaaChan/status/1221926864966410240/video/1",
+        "id": 1221926822805307392,
+        "id_str": "1221926822805307392",
+        "indices": [
+          89,
+          112
+        ],
+        "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1221926822805307392/pu/img/dz0gDJUJLGu-L_A1.jpg",
+        "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1221926822805307392/pu/img/dz0gDJUJLGu-L_A1.jpg",
+        "sizes": {
+          "large": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 576
+          },
+          "medium": {
+            "h": 1024,
+            "resize": "fit",
+            "w": 576
+          },
+          "small": {
+            "h": 680,
+            "resize": "fit",
+            "w": 383
+          },
+          "thumb": {
+            "h": 150,
+            "resize": "crop",
+            "w": 150
+          }
+        },
+        "source_status_id": 1221926864966410240,
+        "source_status_id_str": "1221926864966410240",
+        "source_user_id": 768505759,
+        "source_user_id_str": "768505759",
+        "type": "video",
+        "url": "https://t.co/rmMkzTYvjk",
+        "video_info": {
+          "aspect_ratio": [
+            9,
+            16
+          ],
+          "duration_millis": 5333,
+          "variants": [
+            {
+              "bitrate": 832000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1221926822805307392/pu/vid/360x640/o9YSCKmzhiYa3P03.mp4?tag=10"
+            },
+            {
+              "content_type": "application/x-mpegURL",
+              "url": "https://video.twimg.com/ext_tw_video/1221926822805307392/pu/pl/lMkyjvrVvdsLJ7VS.m3u8?tag=10"
+            },
+            {
+              "bitrate": 632000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1221926822805307392/pu/vid/320x568/RbyClCnSDdqTC11C.mp4?tag=10"
+            },
+            {
+              "bitrate": 2176000,
+              "content_type": "video/mp4",
+              "url": "https://video.twimg.com/ext_tw_video/1221926822805307392/pu/vid/576x1024/e__yPdKcuWz7ElmS.mp4?tag=10"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1222393058060165120,
+  "id_str": "1222393058060165120",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": false,
+  "lang": "en",
+  "place": null,
+  "possibly_sensitive": false,
+  "quote_count": 0,
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "retweeted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Jan 27 22:44:01 +0000 2020",
+    "display_text_range": [
+      0,
+      72
+    ],
+    "entities": {
+      "hashtags": [],
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/rmMkzTYvjk",
+          "expanded_url": "https://twitter.com/TashaaChan/status/1221926864966410240/video/1",
+          "id": 1221926822805307392,
+          "id_str": "1221926822805307392",
+          "indices": [
+            73,
+            96
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1221926822805307392/pu/img/dz0gDJUJLGu-L_A1.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1221926822805307392/pu/img/dz0gDJUJLGu-L_A1.jpg",
+          "sizes": {
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 576
+            },
+            "medium": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 576
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "photo",
+          "url": "https://t.co/rmMkzTYvjk"
+        }
+      ],
+      "symbols": [],
+      "urls": [],
+      "user_mentions": []
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "additional_media_info": {
+            "monetizable": false
+          },
+          "display_url": "pic.twitter.com/rmMkzTYvjk",
+          "expanded_url": "https://twitter.com/TashaaChan/status/1221926864966410240/video/1",
+          "id": 1221926822805307392,
+          "id_str": "1221926822805307392",
+          "indices": [
+            73,
+            96
+          ],
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1221926822805307392/pu/img/dz0gDJUJLGu-L_A1.jpg",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1221926822805307392/pu/img/dz0gDJUJLGu-L_A1.jpg",
+          "sizes": {
+            "large": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 576
+            },
+            "medium": {
+              "h": 1024,
+              "resize": "fit",
+              "w": 576
+            },
+            "small": {
+              "h": 680,
+              "resize": "fit",
+              "w": 383
+            },
+            "thumb": {
+              "h": 150,
+              "resize": "crop",
+              "w": 150
+            }
+          },
+          "type": "video",
+          "url": "https://t.co/rmMkzTYvjk",
+          "video_info": {
+            "aspect_ratio": [
+              9,
+              16
+            ],
+            "duration_millis": 5333,
+            "variants": [
+              {
+                "bitrate": 832000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1221926822805307392/pu/vid/360x640/o9YSCKmzhiYa3P03.mp4?tag=10"
+              },
+              {
+                "content_type": "application/x-mpegURL",
+                "url": "https://video.twimg.com/ext_tw_video/1221926822805307392/pu/pl/lMkyjvrVvdsLJ7VS.m3u8?tag=10"
+              },
+              {
+                "bitrate": 632000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1221926822805307392/pu/vid/320x568/RbyClCnSDdqTC11C.mp4?tag=10"
+              },
+              {
+                "bitrate": 2176000,
+                "content_type": "video/mp4",
+                "url": "https://video.twimg.com/ext_tw_video/1221926822805307392/pu/vid/576x1024/e__yPdKcuWz7ElmS.mp4?tag=10"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    "favorite_count": 49960,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1221926864966410240,
+    "id_str": "1221926864966410240",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 450,
+    "reply_count": 145,
+    "retweet_count": 15937,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "this did well on tiktok so lemme put it on twitter where it matters lmao https://t.co/rmMkzTYvjk",
+    "truncated": false,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Mon Aug 20 00:26:10 +0000 2012",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "Natasha 🇵🇭🇺🇸 ☆〜（ゝ。∂）insta: natashaweimer",
+      "favourites_count": 35492,
+      "follow_request_sent": null,
+      "followers_count": 2068,
+      "following": null,
+      "friends_count": 919,
+      "geo_enabled": true,
+      "id": 768505759,
+      "id_str": "768505759",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 10,
+      "location": "Osaka-shi Kita, Osaka",
+      "name": "ナターシャ",
+      "notifications": null,
+      "profile_background_color": "3C0040",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/768505759/1570893012",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1196805591424856066/PKPw71KC_normal.jpg",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1196805591424856066/PKPw71KC_normal.jpg",
+      "profile_link_color": "C98ACC",
+      "profile_sidebar_border_color": "C0DEED",
+      "profile_sidebar_fill_color": "DDEEF6",
+      "profile_text_color": "333333",
+      "profile_use_background_image": true,
+      "protected": false,
+      "screen_name": "TashaaChan",
+      "statuses_count": 21354,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": null,
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "RT @TashaaChan: this did well on tiktok so lemme put it on twitter where it matters lmao https://t.co/rmMkzTYvjk",
+  "timestamp_ms": "1580276190663",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Fri Dec 09 11:34:10 +0000 2011",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "退廃的だった。 MTC+TCW 💙\nOnline soundboard for anime-related stuff. ➡️http://open.spotify.com/playlist/7Dtrt…",
+    "favourites_count": 5103,
+    "follow_request_sent": null,
+    "followers_count": 92,
+    "following": null,
+    "friends_count": 97,
+    "geo_enabled": false,
+    "id": 432429111,
+    "id_str": "432429111",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 4,
+    "location": null,
+    "name": "Mira L.🔽MTC JANUARY",
+    "notifications": null,
+    "profile_background_color": "1A698A",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/432429111/1579104837",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1208676640206680064/ggyw8gZ4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1208676640206680064/ggyw8gZ4_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "CAE2A6",
+    "profile_text_color": "05D4CC",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "miraOmicronCeti",
+    "statuses_count": 2225,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false
+  }
+}

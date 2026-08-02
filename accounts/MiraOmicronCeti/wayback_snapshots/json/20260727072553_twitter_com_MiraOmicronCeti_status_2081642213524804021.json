@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000386018953101312",
+    "conversation_id": "2081599955203199032",
+    "created_at": "2026-07-27T07:25:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T08:25:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081642213524804021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2012131866829303809",
+          "start": 0,
+          "username": "anbtc118411"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081642213524804021",
+    "in_reply_to_user_id": "2012131866829303809",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081636320502575598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anbtc118411 icu里好多半活半死的病人 各种心电监护仪器会一直报警"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000386018953101312",
+        "conversation_id": "2081599955203199032",
+        "created_at": "2026-07-27T07:25:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:25:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081642213524804021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2012131866829303809",
+              "start": 0,
+              "username": "anbtc118411"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081642213524804021",
+        "in_reply_to_user_id": "2012131866829303809",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081636320502575598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anbtc118411 icu里好多半活半死的病人 各种心电监护仪器会一直报警"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2012131866829303809",
+        "conversation_id": "2081599955203199032",
+        "created_at": "2026-07-27T07:02:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T08:02:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081636320502575598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2000386018953101312",
+              "start": 0,
+              "username": "MiraOmicronCeti"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081636320502575598",
+        "in_reply_to_user_id": "2000386018953101312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 26,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081599955203199032",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MiraOmicronCeti 为什么有蜂鸣器？怕人睡着了就醒不过来了吗？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-12-15T02:03:07.000Z",
+        "description": "🟨⬜️🟪⬛️",
+        "id": "2000386018953101312",
+        "name": "ᎷӀᎡᎪ #蒭藁增二",
+        "pinned_tweet_id": "2069076461810794794",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052875697958559744/YFtatxSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 277,
+          "following_count": 249,
+          "like_count": 6498,
+          "listed_count": 0,
+          "media_count": 128,
+          "tweet_count": 692
+        },
+        "url": "",
+        "username": "MiraOmicronCeti",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-16T11:56:56.000Z",
+        "description": "利群山庄庄主\n构石研究员",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "shitjournal.org",
+                "end": 23,
+                "expanded_url": "http://shitjournal.org",
+                "start": 0,
+                "url": "https://t.co/tXw4eBVDlt"
+              }
+            ]
+          }
+        },
+        "id": "2012131866829303809",
+        "location": "禾刂君羊山庄",
+        "name": "neoanbtc",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012138208075960320/E860aFpi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 182,
+          "like_count": 13506,
+          "listed_count": 1,
+          "media_count": 332,
+          "tweet_count": 1567
+        },
+        "url": "https://t.co/tXw4eBVDlt",
+        "username": "anbtc118411",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,331 @@
+{
+  "contributors": null,
+  "coordinates": null,
+  "created_at": "Mon Dec 23 02:54:30 +0000 2019",
+  "entities": {
+    "hashtags": [],
+    "symbols": [],
+    "urls": [],
+    "user_mentions": []
+  },
+  "favorite_count": 0,
+  "favorited": false,
+  "filter_level": "low",
+  "geo": null,
+  "id": 1208943938406514688,
+  "id_str": "1208943938406514688",
+  "in_reply_to_screen_name": null,
+  "in_reply_to_status_id": null,
+  "in_reply_to_status_id_str": null,
+  "in_reply_to_user_id": null,
+  "in_reply_to_user_id_str": null,
+  "is_quote_status": true,
+  "lang": "in",
+  "place": null,
+  "quote_count": 0,
+  "quoted_status": {
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Mon Dec 23 01:00:00 +0000 2019",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "indices": [
+            48,
+            61
+          ],
+          "text": "ヒプマイスクラッチバトル"
+        }
+      ],
+      "symbols": [],
+      "urls": [
+        {
+          "display_url": "otomate.jp/smp/hypnosismi…",
+          "expanded_url": "https://www.otomate.jp/smp/hypnosismic_arb/",
+          "indices": [
+            85,
+            108
+          ],
+          "url": "https://t.co/ZYIYdw5vDX"
+        },
+        {
+          "display_url": "twitter.com/i/web/status/1…",
+          "expanded_url": "https://twitter.com/i/web/status/1208915123118604289",
+          "indices": [
+            117,
+            140
+          ],
+          "url": "https://t.co/ixFKKm2FlN"
+        }
+      ],
+      "user_mentions": [
+        {
+          "id": 1118099406090190851,
+          "id_str": "1118099406090190851",
+          "indices": [
+            25,
+            41
+          ],
+          "name": "【ゲーム】ヒプノシスマイク-A.R.B-",
+          "screen_name": "hypnosismic_arb"
+        }
+      ]
+    },
+    "extended_tweet": {
+      "display_text_range": [
+        0,
+        151
+      ],
+      "entities": {
+        "hashtags": [
+          {
+            "indices": [
+              48,
+              61
+            ],
+            "text": "ヒプマイスクラッチバトル"
+          },
+          {
+            "indices": [
+              137,
+              142
+            ],
+            "text": "ヒプマイ"
+          },
+          {
+            "indices": [
+              143,
+              151
+            ],
+            "text": "ヒプマイARB"
+          }
+        ],
+        "media": [
+          {
+            "display_url": "pic.twitter.com/W44wArgFUK",
+            "expanded_url": "https://twitter.com/hypnosismic_arb/status/1208915123118604289/photo/1",
+            "id": 1207958253474213888,
+            "id_str": "1207958253474213888",
+            "indices": [
+              152,
+              175
+            ],
+            "media_url": "http://pbs.twimg.com/media/EMOHoanU8AABGmB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EMOHoanU8AABGmB.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/W44wArgFUK"
+          }
+        ],
+        "symbols": [],
+        "urls": [
+          {
+            "display_url": "otomate.jp/smp/hypnosismi…",
+            "expanded_url": "https://www.otomate.jp/smp/hypnosismic_arb/",
+            "indices": [
+              85,
+              108
+            ],
+            "url": "https://t.co/ZYIYdw5vDX"
+          }
+        ],
+        "user_mentions": [
+          {
+            "id": 1118099406090190851,
+            "id_str": "1118099406090190851",
+            "indices": [
+              25,
+              41
+            ],
+            "name": "【ゲーム】ヒプノシスマイク-A.R.B-",
+            "screen_name": "hypnosismic_arb"
+          }
+        ]
+      },
+      "extended_entities": {
+        "media": [
+          {
+            "display_url": "pic.twitter.com/W44wArgFUK",
+            "expanded_url": "https://twitter.com/hypnosismic_arb/status/1208915123118604289/photo/1",
+            "id": 1207958253474213888,
+            "id_str": "1207958253474213888",
+            "indices": [
+              152,
+              175
+            ],
+            "media_url": "http://pbs.twimg.com/media/EMOHoanU8AABGmB.jpg",
+            "media_url_https": "https://pbs.twimg.com/media/EMOHoanU8AABGmB.jpg",
+            "sizes": {
+              "large": {
+                "h": 720,
+                "resize": "fit",
+                "w": 1280
+              },
+              "medium": {
+                "h": 675,
+                "resize": "fit",
+                "w": 1200
+              },
+              "small": {
+                "h": 383,
+                "resize": "fit",
+                "w": 680
+              },
+              "thumb": {
+                "h": 150,
+                "resize": "crop",
+                "w": 150
+              }
+            },
+            "type": "photo",
+            "url": "https://t.co/W44wArgFUK"
+          }
+        ]
+      },
+      "full_text": "【新情報】事前登録＆キャンペーン企画実施中！💿✨\n@hypnosismic_arb フォローと #ヒプマイスクラッチバトル で特典GET📢\n詳細は公式サイトにアクセス▶ https://t.co/ZYIYdw5vDX\n\n記念にゲーム中に登場する寂雷のショット📷を初公開！！\n#ヒプマイ #ヒプマイARB https://t.co/W44wArgFUK"
+    },
+    "favorite_count": 16798,
+    "favorited": false,
+    "filter_level": "low",
+    "geo": null,
+    "id": 1208915123118604289,
+    "id_str": "1208915123118604289",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "ja",
+    "place": null,
+    "possibly_sensitive": false,
+    "quote_count": 425,
+    "reply_count": 84,
+    "retweet_count": 6509,
+    "retweeted": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "text": "【新情報】事前登録＆キャンペーン企画実施中！💿✨\n@hypnosismic_arb フォローと #ヒプマイスクラッチバトル で特典GET📢\n詳細は公式サイトにアクセス▶ https://t.co/ZYIYdw5vDX\n\n記念にゲー… https://t.co/ixFKKm2FlN",
+    "truncated": true,
+    "user": {
+      "contributors_enabled": false,
+      "created_at": "Tue Apr 16 10:30:46 +0000 2019",
+      "default_profile": false,
+      "default_profile_image": false,
+      "description": "2020年3月下旬配信予定スマートフォンアプリゲーム「ヒプノシスマイク -Alternative Rap Battle-（オルタナティブラップバトル）」の公式アカウントです。最新情報などをお知らせします。ヒプノシスマイク公式アカウントはこちら（@hypnosismic）。 #ヒプマイ #ヒプマイARB",
+      "favourites_count": 9,
+      "follow_request_sent": null,
+      "followers_count": 352957,
+      "following": null,
+      "friends_count": 22,
+      "geo_enabled": false,
+      "id": 1118099406090190851,
+      "id_str": "1118099406090190851",
+      "is_translator": false,
+      "lang": null,
+      "listed_count": 1795,
+      "location": null,
+      "name": "【ゲーム】ヒプノシスマイク-A.R.B-",
+      "notifications": null,
+      "profile_background_color": "000000",
+      "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+      "profile_background_tile": false,
+      "profile_banner_url": "https://pbs.twimg.com/profile_banners/1118099406090190851/1555721820",
+      "profile_image_url": "http://pbs.twimg.com/profile_images/1119404499884331008/rp5PIt4-_normal.png",
+      "profile_image_url_https": "https://pbs.twimg.com/profile_images/1119404499884331008/rp5PIt4-_normal.png",
+      "profile_link_color": "000000",
+      "profile_sidebar_border_color": "000000",
+      "profile_sidebar_fill_color": "000000",
+      "profile_text_color": "000000",
+      "profile_use_background_image": false,
+      "protected": false,
+      "screen_name": "hypnosismic_arb",
+      "statuses_count": 85,
+      "time_zone": null,
+      "translator_type": "none",
+      "url": "http://www.otomate.jp/smp/hypnosismic_arb/",
+      "utc_offset": null,
+      "verified": false
+    }
+  },
+  "quoted_status_id": 1208915123118604289,
+  "quoted_status_id_str": "1208915123118604289",
+  "quoted_status_permalink": {
+    "display": "twitter.com/hypnosismic_ar…",
+    "expanded": "https://twitter.com/hypnosismic_arb/status/1208915123118604289",
+    "url": "https://t.co/1qvg9bRIAv"
+  },
+  "reply_count": 0,
+  "retweet_count": 0,
+  "retweeted": false,
+  "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+  "text": "jakurai-sensei, pray for us",
+  "timestamp_ms": "1577069670665",
+  "truncated": false,
+  "user": {
+    "contributors_enabled": false,
+    "created_at": "Fri Dec 09 11:34:10 +0000 2011",
+    "default_profile": false,
+    "default_profile_image": false,
+    "description": "退廃的だった。 Online soundboard for anime-related stuff. ➡️https://open.spotify.com/playlist/7DtrtW7fSJ6f9s9IznhG9K",
+    "favourites_count": 4567,
+    "follow_request_sent": null,
+    "followers_count": 92,
+    "following": null,
+    "friends_count": 91,
+    "geo_enabled": false,
+    "id": 432429111,
+    "id_str": "432429111",
+    "is_translator": false,
+    "lang": null,
+    "listed_count": 4,
+    "location": null,
+    "name": "Mira L.",
+    "notifications": null,
+    "profile_background_color": "1A698A",
+    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme13/bg.gif",
+    "profile_background_tile": true,
+    "profile_banner_url": "https://pbs.twimg.com/profile_banners/432429111/1574680858",
+    "profile_image_url": "http://pbs.twimg.com/profile_images/1208676640206680064/ggyw8gZ4_normal.jpg",
+    "profile_image_url_https": "https://pbs.twimg.com/profile_images/1208676640206680064/ggyw8gZ4_normal.jpg",
+    "profile_link_color": "1B95E0",
+    "profile_sidebar_border_color": "FFFFFF",
+    "profile_sidebar_fill_color": "CAE2A6",
+    "profile_text_color": "05D4CC",
+    "profile_use_background_image": true,
+    "protected": false,
+    "screen_name": "miraOmicronCeti",
+    "statuses_count": 2059,
+    "time_zone": null,
+    "translator_type": "none",
+    "url": null,
+    "utc_offset": null,
+    "verified": false
+  }
+}
