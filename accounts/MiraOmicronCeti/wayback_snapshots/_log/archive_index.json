@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T11:01:46",
+  "last_updated": "2026-08-02T11:02:22",
   "html": {
     "https://web.archive.org/web/20200129053630if_/https://twitter.com/miraOmicronCeti/status/1222393058060165120": {
       "status": "done",
@@ -161,9 +161,9 @@
       "referenced_by": [
         "20260701053246_twitter_com_MiraOmicronCeti_status_2072191661124550771.json"
       ],
-      "last_updated": "2026-08-02T10:22:34",
+      "last_updated": "2026-08-02T11:02:22",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260701053246/https://pbs.twimg.com/media/HMHnVInboAADp-v.jpg",
-      "miss_count": 1
+      "miss_count": 2
     },
     "https://pbs.twimg.com/media/HNq7RsTbEAAAiSn.jpg": {
       "status": "done",
