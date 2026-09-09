@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-09-09T17:47:33",
+  "last_updated": "2026-09-09T17:47:45",
   "html": {
     "https://web.archive.org/web/20200129053630if_/https://twitter.com/miraOmicronCeti/status/1222393058060165120": {
       "status": "done",
@@ -752,79 +752,92 @@
       "last_updated": "2026-08-02T10:22:59"
     },
     "https://pbs.twimg.com/profile_images/2037153442360373248/-lm0hY9r_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260801132903_twitter_com_MiraOmicronCeti_status_2083545546711851238.json"
-      ]
+      ],
+      "last_updated": "2026-09-09T17:47:45"
     },
     "https://pbs.twimg.com/profile_images/2054048782904610816/tiJI4lWv_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260804152952_twitter_com_MiraOmicronCeti_status_2084663116886143415.json"
-      ]
+      ],
+      "last_updated": "2026-09-09T17:47:45"
     },
     "https://pbs.twimg.com/profile_images/2010690434545356800/p494Qex-_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260816093840_twitter_com_MiraOmicronCeti_status_2088923388568019185.json"
-      ]
+      ],
+      "last_updated": "2026-09-09T17:47:45"
     },
     "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260820113722_twitter_com_MiraOmicronCeti_status_2090402812249465253.json",
         "20260820114200_twitter_com_MiraOmicronCeti_status_2090403977376768027.json",
         "20260823153329_twitter_com_MiraOmicronCeti_status_2091549393535295851.json"
-      ]
+      ],
+      "last_updated": "2026-09-09T17:47:45"
     },
     "https://pbs.twimg.com/profile_images/2089764101484638208/EKEtH1Ns_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260822105059_twitter_com_MiraOmicronCeti_status_2091115913940816261.json"
-      ]
+      ],
+      "last_updated": "2026-09-09T17:47:45"
     },
     "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png": {
-      "status": "unknown",
+      "status": "failed_all",
       "referenced_by": [
         "20260825081834_twitter_com_MiraOmicronCeti_status_2092164719063056895.json"
-      ]
+      ],
+      "last_updated": "2026-09-09T17:47:45",
+      "last_reason": "无法识别 profile pid",
+      "miss_count": 1
     },
     "https://pbs.twimg.com/profile_images/2085430857674919937/EnuwdBND_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260826013344_twitter_com_MiraOmicronCeti_status_2092425228152697226.json",
         "20260826034300_twitter_com_MiraOmicronCeti_status_2092457761011630379.json"
-      ]
+      ],
+      "last_updated": "2026-09-09T17:47:45"
     },
     "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260827023626_twitter_com_MiraOmicronCeti_status_2092803393249263940.json"
-      ]
+      ],
+      "last_updated": "2026-09-09T17:47:45"
     },
     "https://pbs.twimg.com/profile_images/2088887521216446465/XxVZnA1W_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260827084935_twitter_com_MiraOmicronCeti_status_2092897299735404745.json"
-      ]
+      ],
+      "last_updated": "2026-09-09T17:47:45"
     },
     "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260827133645_twitter_com_MiraOmicronCeti_status_2092969569849876524.json",
         "20260907124351_twitter_com_MiraOmicronCeti_status_2096942524288192817.json",
         "20260908091316_twitter_com_MiraOmicronCeti_status_2097251914685784165.json"
-      ]
+      ],
+      "last_updated": "2026-09-09T17:47:45"
     },
     "https://pbs.twimg.com/profile_images/2096887010720145408/IVpgDs5Q_normal.jpg": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260907091930_twitter_com_MiraOmicronCeti_status_2096891095397617947.json",
         "20260907124351_twitter_com_MiraOmicronCeti_status_2096942524288192817.json",
         "20260908041858_twitter_com_MiraOmicronCeti_status_2097177852836032894.json",
         "20260908053550_twitter_com_MiraOmicronCeti_status_2097197198828327256.json",
         "20260908091316_twitter_com_MiraOmicronCeti_status_2097251914685784165.json"
-      ]
+      ],
+      "last_updated": "2026-09-09T17:47:44"
     }
   },
   "media": {
@@ -1113,7 +1126,7 @@
       "last_updated": "2026-08-02T10:22:31"
     },
     "20260801132903_twitter_com_MiraOmicronCeti_status_2083545546711851238.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HOn3iLAawAAdQQA.jpg",
@@ -1125,7 +1138,7 @@
           "https://pbs.twimg.com/profile_images/2037153442360373248/-lm0hY9r_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-09T17:47:32"
+      "last_updated": "2026-09-09T17:47:45"
     },
     "20260802151901_twitter_com_MiraOmicronCeti_status_2083935607492141271.json": {
       "status": "done",
@@ -1172,7 +1185,7 @@
       "last_updated": "2026-09-09T17:46:58"
     },
     "20260804152952_twitter_com_MiraOmicronCeti_status_2084663116886143415.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HOziKBvasAAldUk.jpg"
@@ -1183,7 +1196,7 @@
           "https://pbs.twimg.com/profile_images/2054048782904610816/tiJI4lWv_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-09T17:47:32"
+      "last_updated": "2026-09-09T17:47:45"
     },
     "20260810114329_twitter_com_MiraOmicronCeti_status_2086780470944247856.json": {
       "status": "failed",
@@ -1272,7 +1285,7 @@
       "last_updated": "2026-09-09T17:46:58"
     },
     "20260816093840_twitter_com_MiraOmicronCeti_status_2088923388568019185.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -1281,7 +1294,7 @@
           "https://pbs.twimg.com/profile_images/2010690434545356800/p494Qex-_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-09T17:47:32"
+      "last_updated": "2026-09-09T17:47:45"
     },
     "20260816150857_twitter_com_MiraOmicronCeti_status_2089006506910122435.json": {
       "status": "done",
@@ -1345,7 +1358,7 @@
       "last_updated": "2026-09-09T17:46:58"
     },
     "20260820113722_twitter_com_MiraOmicronCeti_status_2090402812249465253.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HQKMb8zbsAAlkin.jpg"
@@ -1356,10 +1369,10 @@
           "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-09T17:47:32"
+      "last_updated": "2026-09-09T17:47:45"
     },
     "20260820114200_twitter_com_MiraOmicronCeti_status_2090403977376768027.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HQKbTwCbgAAlPHX.jpg"
@@ -1370,7 +1383,7 @@
           "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-09T17:47:32"
+      "last_updated": "2026-09-09T17:47:45"
     },
     "20260820135456_twitter_com_MiraOmicronCeti_status_2090437431346782256.json": {
       "status": "failed",
@@ -1420,7 +1433,7 @@
       "last_updated": "2026-09-09T17:46:58"
     },
     "20260822105059_twitter_com_MiraOmicronCeti_status_2091115913940816261.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -1429,7 +1442,7 @@
           "https://pbs.twimg.com/profile_images/2089764101484638208/EKEtH1Ns_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-09T17:47:32"
+      "last_updated": "2026-09-09T17:47:45"
     },
     "20260822132202_twitter_com_MiraOmicronCeti_status_2091153926552994031.json": {
       "status": "done",
@@ -1483,7 +1496,7 @@
       "last_updated": "2026-09-09T17:47:02"
     },
     "20260823153329_twitter_com_MiraOmicronCeti_status_2091549393535295851.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HQao6IkaEAIzvH2.jpg"
@@ -1494,10 +1507,10 @@
           "https://pbs.twimg.com/profile_images/2084202029283790848/3iK8F-PD_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-09T17:47:32"
+      "last_updated": "2026-09-09T17:47:45"
     },
     "20260825081834_twitter_com_MiraOmicronCeti_status_2092164719063056895.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -1506,7 +1519,7 @@
           "https://abs.twimg.com/sticky/default_profile_images/default_profile_normal.png"
         ]
       },
-      "last_updated": "2026-09-09T17:47:32"
+      "last_updated": "2026-09-09T17:47:45"
     },
     "20260825104323_twitter_com_MiraOmicronCeti_status_2092201163412439077.json": {
       "status": "done",
@@ -1544,7 +1557,7 @@
       "last_updated": "2026-09-09T17:46:58"
     },
     "20260826013344_twitter_com_MiraOmicronCeti_status_2092425228152697226.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -1553,7 +1566,7 @@
           "https://pbs.twimg.com/profile_images/2085430857674919937/EnuwdBND_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-09T17:47:32"
+      "last_updated": "2026-09-09T17:47:45"
     },
     "20260826013523_twitter_com_MiraOmicronCeti_status_2092425642398896476.json": {
       "status": "done",
@@ -1569,7 +1582,7 @@
       "last_updated": "2026-09-09T17:46:59"
     },
     "20260826034300_twitter_com_MiraOmicronCeti_status_2092457761011630379.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -1578,7 +1591,7 @@
           "https://pbs.twimg.com/profile_images/2085430857674919937/EnuwdBND_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-09T17:47:32"
+      "last_updated": "2026-09-09T17:47:45"
     },
     "20260826100931_twitter_com_MiraOmicronCeti_status_2092555030935359988.json": {
       "status": "done",
@@ -1638,7 +1651,7 @@
       "last_updated": "2026-09-09T17:46:58"
     },
     "20260827023626_twitter_com_MiraOmicronCeti_status_2092803393249263940.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HQqAH_-aQAEUCNS.png"
@@ -1649,10 +1662,10 @@
           "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-09T17:47:32"
+      "last_updated": "2026-09-09T17:47:45"
     },
     "20260827084935_twitter_com_MiraOmicronCeti_status_2092897299735404745.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HQt1U2RbcAAkvBo.jpg"
@@ -1663,10 +1676,10 @@
           "https://pbs.twimg.com/profile_images/2088887521216446465/XxVZnA1W_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-09T17:47:32"
+      "last_updated": "2026-09-09T17:47:45"
     },
     "20260827133645_twitter_com_MiraOmicronCeti_status_2092969569849876524.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -1675,7 +1688,7 @@
           "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-09T17:47:32"
+      "last_updated": "2026-09-09T17:47:45"
     },
     "20260827134700_twitter_com_MiraOmicronCeti_status_2092972147304194065.json": {
       "status": "done",
@@ -1770,7 +1783,7 @@
       "last_updated": "2026-09-09T17:46:59"
     },
     "20260907091930_twitter_com_MiraOmicronCeti_status_2096891095397617947.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HRmnVVebAAAvKwp.jpg"
@@ -1780,10 +1793,10 @@
           "https://pbs.twimg.com/profile_images/2096887010720145408/IVpgDs5Q_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-09T17:47:32"
+      "last_updated": "2026-09-09T17:47:44"
     },
     "20260907124351_twitter_com_MiraOmicronCeti_status_2096942524288192817.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -1792,10 +1805,10 @@
           "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-09T17:47:32"
+      "last_updated": "2026-09-09T17:47:45"
     },
     "20260908041858_twitter_com_MiraOmicronCeti_status_2097177852836032894.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -1803,10 +1816,10 @@
           "https://pbs.twimg.com/profile_images/2096887010720145408/IVpgDs5Q_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-09T17:47:32"
+      "last_updated": "2026-09-09T17:47:44"
     },
     "20260908053550_twitter_com_MiraOmicronCeti_status_2097197198828327256.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [
           "https://pbs.twimg.com/media/HRq9u6OakAAkOXT.jpg"
@@ -1816,10 +1829,10 @@
           "https://pbs.twimg.com/profile_images/2096887010720145408/IVpgDs5Q_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-09T17:47:32"
+      "last_updated": "2026-09-09T17:47:44"
     },
     "20260908091316_twitter_com_MiraOmicronCeti_status_2097251914685784165.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [],
@@ -1828,7 +1841,7 @@
           "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg"
         ]
       },
-      "last_updated": "2026-09-09T17:47:32"
+      "last_updated": "2026-09-09T17:47:45"
     }
   }
 }
