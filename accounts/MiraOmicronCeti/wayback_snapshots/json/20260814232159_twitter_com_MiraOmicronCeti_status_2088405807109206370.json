@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000386018953101312",
+    "conversation_id": "2088405807109206370",
+    "created_at": "2026-08-14T23:21:59.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T00:21:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088405807109206370"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2088405807109206370",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "外面下雨滴滴答答砸到彩钢板塑料板上的声音像嘈杂对不上节拍的四通道医用电动注射泵 吞药之前的那个下午是个雨天 窗户外面也是这样的滴滴答答\n要好好活着啊"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000386018953101312",
+        "conversation_id": "2088405807109206370",
+        "created_at": "2026-08-14T23:21:59.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T00:21:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088405807109206370"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088405807109206370",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "外面下雨滴滴答答砸到彩钢板塑料板上的声音像嘈杂对不上节拍的四通道医用电动注射泵 吞药之前的那个下午是个雨天 窗户外面也是这样的滴滴答答\n要好好活着啊"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T02:03:07.000Z",
+        "description": "🟨⬜️🟪⬛️",
+        "id": "2000386018953101312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088405807109206370",
+        "name": "ᎷӀᎡᎪ #蒭藁增二",
+        "pinned_tweet_id": "2069076461810794794",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000386018953101312/1778279652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052875697958559744/YFtatxSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 248,
+          "like_count": 6764,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 709
+        },
+        "url": "",
+        "username": "MiraOmicronCeti",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

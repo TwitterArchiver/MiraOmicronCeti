@@ -1,0 +1,109 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000386018953101312",
+    "conversation_id": "2088253669599027365",
+    "created_at": "2026-08-14T13:17:27.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T14:17:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088253669599027365"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2088253669599027365",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "做噩梦想起住院时候 icu里给戴着呼吸机的病人和丙泊酚一起推的那个“右美”原来是右美托咪定 我还纳闷来着 这辈子就是被那啥给害了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000386018953101312",
+        "conversation_id": "2088253669599027365",
+        "created_at": "2026-08-14T13:17:27.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T14:17:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088253669599027365"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2088253669599027365",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "做噩梦想起住院时候 icu里给戴着呼吸机的病人和丙泊酚一起推的那个“右美”原来是右美托咪定 我还纳闷来着 这辈子就是被那啥给害了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T02:03:07.000Z",
+        "description": "🟨⬜️🟪⬛️",
+        "id": "2000386018953101312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088253669599027365",
+        "name": "ᎷӀᎡᎪ #蒭藁增二",
+        "pinned_tweet_id": "2069076461810794794",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000386018953101312/1778279652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052875697958559744/YFtatxSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 248,
+          "like_count": 6737,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 708
+        },
+        "url": "",
+        "username": "MiraOmicronCeti",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

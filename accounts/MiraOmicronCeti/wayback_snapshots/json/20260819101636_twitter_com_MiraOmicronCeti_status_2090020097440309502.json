@@ -1,0 +1,187 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090020087994699776"
+      ]
+    },
+    "author_id": "2000386018953101312",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2090020097440309502",
+    "created_at": "2026-08-19T10:16:36.000Z",
+    "display_text_range": [
+      0,
+      1
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T11:16:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090020097440309502"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/aA84cppaOT",
+          "end": 25,
+          "expanded_url": "https://x.com/MiraOmicronCeti/status/2090020097440309502/photo/1",
+          "media_key": "3_2090020087994699776",
+          "start": 2,
+          "url": "https://t.co/aA84cppaOT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090020097440309502",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2090020087994699776"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "🩵 https://t.co/aA84cppaOT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2090020087994699776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQE-MlZa0AAq3Va.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090020087994699776"
+          ]
+        },
+        "author_id": "2000386018953101312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2090020097440309502",
+        "created_at": "2026-08-19T10:16:36.000Z",
+        "display_text_range": [
+          0,
+          1
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T11:16:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090020097440309502"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aA84cppaOT",
+              "end": 25,
+              "expanded_url": "https://x.com/MiraOmicronCeti/status/2090020097440309502/photo/1",
+              "media_key": "3_2090020087994699776",
+              "start": 2,
+              "url": "https://t.co/aA84cppaOT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090020097440309502",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2090020087994699776"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "🩵 https://t.co/aA84cppaOT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T02:03:07.000Z",
+        "description": "🟨⬜️🟪⬛️",
+        "id": "2000386018953101312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090020097440309502",
+        "name": "ᎷӀᎡᎪ #蒭藁增二",
+        "pinned_tweet_id": "2069076461810794794",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000386018953101312/1778279652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052875697958559744/YFtatxSK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 282,
+          "following_count": 245,
+          "like_count": 6862,
+          "listed_count": 0,
+          "media_count": 134,
+          "tweet_count": 715
+        },
+        "url": "",
+        "username": "MiraOmicronCeti",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

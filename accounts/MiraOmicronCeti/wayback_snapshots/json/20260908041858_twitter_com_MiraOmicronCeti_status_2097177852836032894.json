@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000386018953101312",
+    "conversation_id": "2097177852836032894",
+    "created_at": "2026-09-08T04:18:58.000Z",
+    "display_text_range": [
+      0,
+      60
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T05:18:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097177852836032894"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2097177852836032894",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在公共场合用会让尴尬难受的方式大声喊我的人只剩浮木这两个人了 就算蓬头垢面下楼扔个垃圾连捡纸壳的老太太都得叫我一声小姑娘"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000386018953101312",
+        "conversation_id": "2097177852836032894",
+        "created_at": "2026-09-08T04:18:58.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T05:18:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097177852836032894"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097177852836032894",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在公共场合用会让尴尬难受的方式大声喊我的人只剩浮木这两个人了 就算蓬头垢面下楼扔个垃圾连捡纸壳的老太太都得叫我一声小姑娘"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T02:03:07.000Z",
+        "description": "🟨⬜️🟪⬛️",
+        "id": "2000386018953101312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097177852836032894",
+        "name": "ᎷӀᎡᎪ #蒭藁增二",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000386018953101312/1788771808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096887010720145408/IVpgDs5Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 291,
+          "following_count": 269,
+          "like_count": 7300,
+          "listed_count": 0,
+          "media_count": 143,
+          "tweet_count": 739
+        },
+        "url": "",
+        "username": "MiraOmicronCeti",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
