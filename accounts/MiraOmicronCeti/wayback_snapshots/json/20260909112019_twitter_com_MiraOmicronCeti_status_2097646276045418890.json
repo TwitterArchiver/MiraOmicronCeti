@@ -1,0 +1,108 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "2000386018953101312",
+    "conversation_id": "2097646276045418890",
+    "created_at": "2026-09-09T11:20:19.000Z",
+    "display_text_range": [
+      0,
+      105
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T12:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097646276045418890"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2097646276045418890",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "rei的离世对我来说同样也是巨大的悲伤。我不想在公开平台讨论她或任何人的包括精神状态、物质使用、私人经历等在内的所有隐私。我理解有很多情绪需要表达，但我不会回应隔空喊话式的公开争论。\n愿她得享真正的平静与幸福。"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2000386018953101312",
+        "conversation_id": "2097646276045418890",
+        "created_at": "2026-09-09T11:20:19.000Z",
+        "display_text_range": [
+          0,
+          105
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T12:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097646276045418890"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2097646276045418890",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "rei的离世对我来说同样也是巨大的悲伤。我不想在公开平台讨论她或任何人的包括精神状态、物质使用、私人经历等在内的所有隐私。我理解有很多情绪需要表达，但我不会回应隔空喊话式的公开争论。\n愿她得享真正的平静与幸福。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-12-15T02:03:07.000Z",
+        "description": "🟨⬜️🟪⬛️",
+        "id": "2000386018953101312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097646276045418890",
+        "name": "ᎷӀᎡᎪ #蒭藁增二",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2000386018953101312/1788771808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096887010720145408/IVpgDs5Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 268,
+          "like_count": 7310,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 741
+        },
+        "url": "",
+        "username": "MiraOmicronCeti",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
